@@ -1,3 +1,3 @@
 # IJC445-Visualisation
-The project analyzes the change in PM2.5 concentration in Sheffield from 2023 to 2024, especially its relationship with weather (temperature, humidity, wind speed).
-These four pictures tell us that high pollution in Sheffield does not occur randomly. PM2.5 concentration levels tend to increase in the evening, and high-pollution events are often associated with high humidity and low wind speeds.
+This project explores how PM2.5 concentrations in Sheffield vary over time and how they relate to meteorological conditions such as temperature, humidity, and wind speed. 
+Using a set of four visualisations, the analysis aims to build an intuitive understanding of pollution patterns, with a focus on seasonal, diurnal, and high-pollution events.
